@@ -19,9 +19,7 @@ Production-ready backtesting engine for market-neutral equity strategies. Built 
 - **✅ Interactive Interface** - Real-time parameter adjustment and visualization
 - **✅ Export Capabilities** - Download results as CSV for further analysis
 
-## 🚀 Live Demo
 
-**Try it here:** [Streamlit App](YOUR_STREAMLIT_URL_HERE)
 
 ## 📊 Performance Metrics
 
@@ -256,11 +254,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
+**[AARYAN GOSWAMI]**
 
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
-- Email: your.email@example.com
+- LinkedIn: [www.linkedin.com/in/aaryan-goswami-058920240]
+- Email: aaryangoswami273@gmail.com
 
 ## 🙏 Acknowledgments
 
